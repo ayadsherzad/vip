@@ -1,0 +1,9 @@
+{
+  "apps": [
+    {
+      "name": "Hell Tools",
+      "image": "img/helltools.png",
+      "install_url": "itms-services://?action=download-manifest&url=https://hell-store.netlify.app/plist/helltools.plist"
+    }
+  ]
+}
