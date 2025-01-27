@@ -2,14 +2,14 @@
   {
     "name": "HELL TOOLS",
     "icon": "https://hell-tools.netlify.app/img/icon.png",
-    "link": "itms-services://?action=download-manifest&url=https://hellstore.netlify.app/plist/helltools.plist",
+    "link": "itms-services://?action=download-manifest&url=https://hellstorevip.netlify.app/plist/helltools.plist",
     "downloads":21 ,
     "views": 1
   },
 	  {
     "name": "Esign",
     "icon": "https://esign.yyyue.xyz/ESignLogo200.png",
-    "link": "itms-services://?action=download-manifest&url=https://hellstore.netlify.app/plist/esign.plist",
+    "link": "itms-services://?action=download-manifest&url=https://hellstorevip.netlify.app/plist/esign.plist",
     "downloads":2 ,
     "views": 0
   }
