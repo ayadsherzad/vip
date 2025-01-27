@@ -1,9 +1,22 @@
-{
-  "apps": [
-    {
-      "name": "Hell Tools",
-      "image": "img/helltools.png",
-      "install_url": "itms-services://?action=download-manifest&url=https://hell-store.netlify.app/plist/helltools.plist"
-    }
-  ]
-}
+[
+  {
+    "name": "HELL TOOLS",
+    "icon": "https://hell-tools.netlify.app/img/icon.png",
+    "link": "itms-services://?action=download-manifest&url=https://hellstore.netlify.app/plist/helltools.plist",
+    "downloads":21 ,
+    "views": 1
+  },
+	  {
+    "name": "Esign",
+    "icon": "https://esign.yyyue.xyz/ESignLogo200.png",
+    "link": "itms-services://?action=download-manifest&url=https://hellstore.netlify.app/plist/esign.plist",
+    "downloads":2 ,
+    "views": 0
+  }
+
+
+]
+
+
+
+
