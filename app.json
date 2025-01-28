@@ -12,6 +12,13 @@
     "link": "itms-services://?action=download-manifest&url=https://hellstorevip.netlify.app/plist/esign.plist",
     "downloads":2 ,
     "views": 0
+  },
+{
+    "name": "Video star",
+    "icon": "https://hellstorevip.netlify.app/img/video.png",
+    "link": "itms-services://?action=download-manifest&url=https://hellstorevip.netlify.app/plist/video.plist",
+    "downloads":2 ,
+    "views": 0
   }
 
 
