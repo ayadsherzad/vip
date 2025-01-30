@@ -19,6 +19,20 @@
     "link": "itms-services://?action=download-manifest&url=https://hellstorevip.netlify.app/plist/video.plist",
     "downloads":2 ,
     "views": 0
+  },
+	  {
+    "name": "WatchForTesla",
+    "icon": "https://hellstorevip.netlify.app/img/watch.png",
+    "link": "itms-services://?action=download-manifest&url=https://hellstorevip.netlify.app/plist/watch.plist",
+    "downloads":2 ,
+    "views": 0
+  },
+{
+    "name": "Find Air",
+    "icon": "https://hellstorevip.netlify.app/img/find.png",
+    "link": "itms-services://?action=download-manifest&url=https://hellstorevip.netlify.app/plist/find.plist",
+    "downloads":2 ,
+    "views": 0
   }
 
 
