@@ -10,6 +10,26 @@
             "name": "WatchForTesla",
             "icon": "https://hellstorevip.netlify.app/img/watch.png",
             "timestamp": "2025/01/30"
+					},
+					  {
+            "name": "Spotify",
+            "icon": "https://hellstorevip.netlify.app/img/spotify.png",
+            "timestamp": "2025/01/30"
+					},
+					 {
+            "name": "Video Lite",
+            "icon": "https://hellstorevip.netlify.app/img/videolite.png",
+            "timestamp": "2025/01/30"
+					},
+		  {
+            "name": "Ai Translation",
+            "icon": "https://hellstorevip.netlify.app/img/ai.png",
+            "timestamp": "2025/01/30"
+					},
+		  {
+            "name": "Calculator air",
+            "icon": "https://hellstorevip.netlify.app/img/calculator.png",
+            "timestamp": "2025/01/30"
 					}
     ]
 }
