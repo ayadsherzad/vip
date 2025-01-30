@@ -30,6 +30,11 @@
             "name": "Calculator air",
             "icon": "https://hellstorevip.netlify.app/img/calculator.png",
             "timestamp": "2025/01/30"
+					},
+		  {
+            "name": "VideFx Live",
+            "icon": "https://hellstorevip.netlify.app/img/videfx.png",
+            "timestamp": "2025/01/30"
 					}
     ]
 }
