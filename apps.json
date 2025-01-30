@@ -37,6 +37,10 @@
 {
     "name": "Spotify",
     "icon": "https://hellstorevip.netlify.app/img/spotify.png"
+},
+{
+    "name": "VideoFx Live",
+    "icon": "https://hellstorevip.netlify.app/img/videofx.png"
 }
 
 
