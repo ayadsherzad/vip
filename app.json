@@ -64,12 +64,79 @@
   },
 {
     "name": "VideoFx Live",
-    "icon": "https://hellstorevip.netlify.app/img/videfx.png",
+    "icon": "https://hellstorevip.netlify.app/img/videofx.png",
     "link": "itms-services://?action=download-manifest&url=https://hellstorevip.netlify.app/plist/videofx.plist",
     "downloads":2 ,
     "views": 0
+  },
+  {
+    "name": "YouTube",
+    "icon": "https://hell-tools.netlify.app/img/you.png",
+    "link": "itms-services://?action=download-manifest&url=https://hellstorevip.netlify.app/plist/you.plist",
+    "downloads":21 ,
+    "views": 1
+  },
+	  {
+    "name": "Djay Pro",
+    "icon": "https://hell-storevip.netlify.app/img/djay.png",
+    "link": "itms-services://?action=download-manifest&url=https://hellstorevip.netlify.app/plist/djay.plist",
+    "downloads":2 ,
+    "views": 0
+  },
+{
+    "name": "InfoCar",
+    "icon": "https://hellstorevip.netlify.app/img/info.png",
+    "link": "itms-services://?action=download-manifest&url=https://hellstorevip.netlify.app/plist/info.plist",
+    "downloads":2 ,
+    "views": 0
+  },
+	  {
+    "name": "PPSSPP",
+    "icon": "https://hellstorevip.netlify.app/img/ppsspp.png",
+    "link": "itms-services://?action=download-manifest&url=https://hellstorevip.netlify.app/plist/ppsspp.plist",
+    "downloads":2 ,
+    "views": 0
+  },
+{
+    "name": "X",
+    "icon": "https://hellstorevip.netlify.app/img/x.png",
+    "link": "itms-services://?action=download-manifest&url=https://hellstorevip.netlify.app/plist/x.plist",
+    "downloads":2 ,
+    "views": 0
+  },
+	  {
+    "name": "Code By sms",
+    "icon": "https://hellstorevip.netlify.app/img/cod.png",
+    "link": "itms-services://?action=download-manifest&url=https://hellstorevip.netlify.app/plist/cod.plist",
+    "downloads":2 ,
+    "views": 0
+  },
+{
+    "name": "Royal Match",
+    "icon": "https://hellstorevip.netlify.app/img/royal.png",
+    "link": "itms-services://?action=download-manifest&url=https://hellstorevip.netlify.app/plist/royal.plist",
+    "downloads":2 ,
+    "views": 0
+  },
+	  {
+    "name": "Pixelance",
+    "icon": "https://hellstorevip.netlify.app/img/pixe.png",
+    "link": "itms-services://?action=download-manifest&url=https://hellstorevip.netlify.app/plist/pixs.plist",
+    "downloads":2 ,
+    "views": 0
+  },
+{
+    "name": "PicsArt",
+    "icon": "https://hellstorevip.netlify.app/img/pics.png",
+    "link": "itms-services://?action=download-manifest&url=https://hellstorevip.netlify.app/plist/pics.plist",
+    "downloads":2 ,
+    "views": 0
   }
-
-
+	
 ]
+
+
+
+
+
 
