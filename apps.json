@@ -1,31 +1,19 @@
 {
   "apps": [
 
-    
-{
-    "name": "Hell Tools",
-    "icon": "https://hell-tools.netlify.app/img/icon.png"
-},
-{
-    "name": "Esign",
-    "icon": "https://esign.yyyue.xyz/ESignLogo200.png"
-},
-{
-    "name": "Video star",
-    "icon": "https://hellstorevip.netlify.app/img/video.png"
-},    
 {
     "name": "WatchForTesla",
     "icon": "https://hellstorevip.netlify.app/img/watch.png"
 },
 {
-    "name": "Video Lite",
-    "icon": "https://hellstorevip.netlify.app/img/videolite.png"
-},
-{
     "name": "Find air",
     "icon": "https://hellstorevip.netlify.app/img/find.png"
 },
+{
+    "name": "Video Lite",
+    "icon": "https://hellstorevip.netlify.app/img/videolite.png"
+},
+
 {
     "name": "Ai Translation",
     "icon": "https://hellstorevip.netlify.app/img/ai.png"
@@ -38,9 +26,48 @@
     "name": "Spotify",
     "icon": "https://hellstorevip.netlify.app/img/spotify.png"
 },
-{
-    "name": "VideoFx Live",
-    "icon": "https://hellstorevip.netlify.app/img/videofx.png"
+				  {
+            "name": "YouTube",
+            "icon": "https://hellstorevip.netlify.app/img/you.png"
+					},
+					  {
+            "name": "Code By sms",
+            "icon": "https://hellstorevip.netlify.app/img/cod.png"
+					},
+					 {
+            "name": "Djay Pro",
+            "icon": "https://hellstorevip.netlify.app/img/djay.png"
+					},
+		  {
+            "name": "InfoCar",
+            "icon": "https://hellstorevip.netlify.app/img/info.png"
+					},
+		  {
+            "name": "PPSSPP",
+            "icon": "https://hellstorevip.netlify.app/img/ppsspp.png"
+					},
+					  {
+            "name": "VideoFx Live",
+            "icon": "https://hellstorevip.netlify.app/img/videofx.png"
+					},
+					  {
+            "name": "X",
+            "icon": "https://hellstorevip.netlify.app/img/x.png"
+					},
+					 {
+            "name": "Royal Match",
+            "icon": "https://hellstorevip.netlify.app/img/royal.png"
+					},
+		  {
+            "name": "PicsArt",
+            "icon": "https://hellstorevip.netlify.app/img/pics.png"
+					},
+		  {
+            "name": "Pixelance",
+            "icon": "https://hellstorevip.netlify.app/img/pixe.png"
+					}
+				
+    ]
 }
 
 
