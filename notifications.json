@@ -31,10 +31,56 @@
             "icon": "https://hellstorevip.netlify.app/img/calculator.png",
             "timestamp": "2025/01/30"
 					},
+					  {
+            "name": "YouTube",
+            "icon": "https://hellstorevip.netlify.app/img/you.png",
+            "timestamp": "2025/01/30"
+					},
+					  {
+            "name": "Code By sms",
+            "icon": "https://hellstorevip.netlify.app/img/cod.png",
+            "timestamp": "2025/01/30"
+					},
+					 {
+            "name": "Djay Pro",
+            "icon": "https://hellstorevip.netlify.app/img/djay.png",
+            "timestamp": "2025/01/30"
+					},
 		  {
-            "name": "VideFx Live",
-            "icon": "https://hellstorevip.netlify.app/img/videfx.png",
+            "name": "InfoCar",
+            "icon": "https://hellstorevip.netlify.app/img/info.png",
+            "timestamp": "2025/01/30"
+					},
+		  {
+            "name": "PPSSPP",
+            "icon": "https://hellstorevip.netlify.app/img/ppsspp.png",
+            "timestamp": "2025/01/30"
+					},
+					  {
+            "name": "VideoFx Live",
+            "icon": "https://hellstorevip.netlify.app/img/videofx.png",
+            "timestamp": "2025/01/30"
+					},
+					  {
+            "name": "X",
+            "icon": "https://hellstorevip.netlify.app/img/x.png",
+            "timestamp": "2025/01/30"
+					},
+					 {
+            "name": "Royal Match",
+            "icon": "https://hellstorevip.netlify.app/img/royal.png",
+            "timestamp": "2025/01/30"
+					},
+		  {
+            "name": "PicsArt",
+            "icon": "https://hellstorevip.netlify.app/img/pics.png",
+            "timestamp": "2025/01/30"
+					},
+		  {
+            "name": "Pixelance",
+            "icon": "https://hellstorevip.netlify.app/img/pixe.png",
             "timestamp": "2025/01/30"
 					}
+				
     ]
 }
