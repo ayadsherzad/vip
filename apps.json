@@ -8,6 +8,26 @@
 {
     "name": "Find air",
     "icon": "https://hellstorevip.netlify.app/img/find.png"
+},
+{
+    "name": "Video Lite",
+    "icon": "https://hellstorevip.netlify.app/img/videolite.png"
+},
+{
+    "name": "Find air",
+    "icon": "https://hellstorevip.netlify.app/img/find.png"
+},
+{
+    "name": "Ai Translation",
+    "icon": "https://hellstorevip.netlify.app/img/ai.png"
+},
+{
+    "name": "Calculator Air",
+    "icon": "https://hellstorevip.netlify.app/img/calculator.png"
+},
+{
+    "name": "Spotify",
+    "icon": "https://hellstorevip.netlify.app/img/spotify.png"
 }
 
 
