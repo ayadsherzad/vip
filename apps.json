@@ -1,13 +1,22 @@
 {
   "apps": [
 
+    
+{
+    "name": "Hell Tools",
+    "icon": "https://hell-tools.netlify.app/img/icon.png"
+},
+{
+    "name": "Esign",
+    "icon": "https://esign.yyyue.xyz/ESignLogo200.png"
+},
+{
+    "name": "Video Star",
+    "icon": "https://hellstorevip.netlify.app/img/video.png"
+},    
 {
     "name": "WatchForTesla",
     "icon": "https://hellstorevip.netlify.app/img/watch.png"
-},
-{
-    "name": "Find air",
-    "icon": "https://hellstorevip.netlify.app/img/find.png"
 },
 {
     "name": "Video Lite",
