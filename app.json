@@ -61,6 +61,13 @@
     "link": "itms-services://?action=download-manifest&url=https://hellstorevip.netlify.app/plist/calculator.plist",
     "downloads":2 ,
     "views": 0
+  },
+{
+    "name": "VideoFx Live",
+    "icon": "https://hellstorevip.netlify.app/img/videfx.png",
+    "link": "itms-services://?action=download-manifest&url=https://hellstorevip.netlify.app/plist/videofx.plist",
+    "downloads":2 ,
+    "views": 0
   }
 
 
