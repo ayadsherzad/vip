@@ -71,14 +71,14 @@
   },
   {
     "name": "YouTube",
-    "icon": "https://hell-tools.netlify.app/img/you.png",
+    "icon": "https://hellstorevip.netlify.app/img/you.png",
     "link": "itms-services://?action=download-manifest&url=https://hellstorevip.netlify.app/plist/you.plist",
     "downloads":21 ,
     "views": 1
   },
 	  {
     "name": "Djay Pro",
-    "icon": "https://hell-storevip.netlify.app/img/djay.png",
+    "icon": "https://hellstorevip.netlify.app/img/djay.png",
     "link": "itms-services://?action=download-manifest&url=https://hellstorevip.netlify.app/plist/djay.plist",
     "downloads":2 ,
     "views": 0
