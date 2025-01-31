@@ -65,6 +65,36 @@
 		  {
             "name": "Pixelance",
             "icon": "https://hellstorevip.netlify.app/img/pixe.png"
+					},
+	  	  {
+            "name": "zooba",
+            "icon": "https://hellstorevip.netlify.app/img/zooba.png",
+ 
+					},
+					  {
+            "name": "Bloons card storm",
+            "icon": "https://hellstorevip.netlify.app/img/bloons.png",
+        
+					},
+					  {
+            "name": "Clash of Clans",
+            "icon": "https://hellstorevip.netlify.app/img/clash.png",
+         
+					},
+					 {
+            "name": "Flight Tracker",
+            "icon": "https://hellstorevip.netlify.app/img/flight.png",
+        
+					},
+		  {
+            "name": "طقس العرب",
+            "icon": "https://hellstorevip.netlify.app/img/sqs.png",
+         
+					},
+		  {
+            "name": "Hungry Shark",
+            "icon": "https://hellstorevip.netlify.app/img/hung.png",
+     
 					}
 
 
