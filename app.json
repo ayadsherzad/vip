@@ -131,10 +131,72 @@
     "link": "itms-services://?action=download-manifest&url=https://hellstorevip.netlify.app/plist/pics.plist",
     "downloads":2 ,
     "views": 0
+  },
+  {
+    "name": "Zooba",
+    "icon": "https://hellstorevip.netlify.app/img/zooba.png",
+    "link": "itms-services://?action=download-manifest&url=https://hellstorevip.netlify.app/plist/zooba.plist",
+    "downloads":21 ,
+    "views": 1
+  },
+	  {
+    "name": "Hungry Shark",
+    "icon": "https://hellstorevip.netlify.app/img/hung.png",
+    "link": "itms-services://?action=download-manifest&url=https://hellstorevip.netlify.app/plist/hung.plist",
+    "downloads":2 ,
+    "views": 0
+  },
+{
+    "name": "طقس العرب",
+    "icon": "https://hellstorevip.netlify.app/img/sqs.png",
+    "link": "itms-services://?action=download-manifest&url=https://hellstorevip.netlify.app/plist/sqs.plist",
+    "downloads":2 ,
+    "views": 0
+  },
+	  {
+    "name": "Flight Tracker",
+    "icon": "https://hellstorevip.netlify.app/img/flight.png",
+    "link": "itms-services://?action=download-manifest&url=https://hellstorevip.netlify.app/plist/flight.plist",
+    "downloads":2 ,
+    "views": 0
+  },
+{
+    "name": "Clash of Clans",
+    "icon": "https://hellstorevip.netlify.app/img/clash.png",
+    "link": "itms-services://?action=download-manifest&url=https://hellstorevip.netlify.app/plist/clash.plist",
+    "downloads":2 ,
+    "views": 0
+  },
+	  {
+    "name": "Bloons card storm",
+    "icon": "https://hellstorevip.netlify.app/img/bloons.png",
+    "link": "itms-services://?action=download-manifest&url=https://hellstorevip.netlify.app/plist/bloons.plist",
+    "downloads":2 ,
+    "views": 0
+  },
+{
+    "name": "Last War",
+    "icon": "https://hellstorevip.netlify.app/img/last.png",
+    "link": "itms-services://?action=download-manifest&url=https://hellstorevip.netlify.app/plist/last.plist",
+    "downloads":2 ,
+    "views": 0
+  },
+	  {
+    "name": "Text Capture",
+    "icon": "https://hellstorevip.netlify.app/img/text.png",
+    "link": "itms-services://?action=download-manifest&url=https://hellstorevip.netlify.app/plist/text.plist",
+    "downloads":2 ,
+    "views": 0
+  },
+{
+    "name": "Hill Climb",
+    "icon": "https://hellstorevip.netlify.app/img/hill.png",
+    "link": "itms-services://?action=download-manifest&url=https://hellstorevip.netlify.app/plist/hill.plist",
+    "downloads":2 ,
+    "views": 0
   }
 	
 ]
-
 
 
 
