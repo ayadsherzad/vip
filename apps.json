@@ -113,6 +113,35 @@
 	  	                        {
     "name": "Hill Climb 2",
     "icon": "https://hellstorevip.netlify.app/img/hill.png"
+	},
+
+{
+    "name": "8 Ball Poll",
+    "icon": "https://hellstorevip.netlify.app/img/8.png"
+},
+{
+    "name": "Pal",
+    "icon": "https://hellstorevip.netlify.app/img/pal.png"
+},
+{
+    "name": "TV Remote",
+    "icon": "https://hellstorevip.netlify.app/img/tv.png"
+},
+{
+    "name": "Zank Remote",
+    "icon": "https://hellstorevip.netlify.app/img/zank.png"
+},
+		  {
+            "name": "Coconote",
+            "icon": "https://hellstorevip.netlify.app/img/coco.png"
+					},
+		                        {
+            "name": "Paper War",
+            "icon": "https://hellstorevip.netlify.app/img/paper.png"
+					},
+	  	                        {
+    "name": "Minutes",
+    "icon": "https://hellstorevip.netlify.app/img/minu.png"
 	}
 
 	  
