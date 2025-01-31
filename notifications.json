@@ -2,85 +2,36 @@
     "app_icons": [
    
 					  {
-            "name": "Find Air",
-            "icon": "https://hellstorevip.netlify.app/img/find.png",
-            "timestamp": "2025/01/30"
+            "name": "zooba",
+            "icon": "https://hellstorevip.netlify.app/img/zooba.png",
+            "timestamp": "2025/01/31"
 					},
 					  {
-            "name": "WatchFortesla",
-            "icon": "https://hellstorevip.netlify.app/img/watch.png",
-            "timestamp": "2025/01/30"
+            "name": "Bloons card storm",
+            "icon": "https://hellstorevip.netlify.app/img/bloons.png",
+            "timestamp": "2025/01/31"
 					},
 					  {
-            "name": "Spotify",
-            "icon": "https://hellstorevip.netlify.app/img/spotify.png",
-            "timestamp": "2025/01/30"
+            "name": "Clash of Clans",
+            "icon": "https://hellstorevip.netlify.app/img/clash.png",
+            "timestamp": "2025/01/31"
 					},
 					 {
-            "name": "Video Lite",
-            "icon": "https://hellstorevip.netlify.app/img/videolite.png",
-            "timestamp": "2025/01/30"
+            "name": "Flight Tracker",
+            "icon": "https://hellstorevip.netlify.app/img/flight.png",
+            "timestamp": "2025/01/31"
 					},
 		  {
-            "name": "Ai Translation",
-            "icon": "https://hellstorevip.netlify.app/img/ai.png",
-            "timestamp": "2025/01/30"
+            "name": "طقس العرب",
+            "icon": "https://hellstorevip.netlify.app/img/sqs.png",
+            "timestamp": "2025/01/31"
 					},
 		  {
-            "name": "Calculator air",
-            "icon": "https://hellstorevip.netlify.app/img/calculator.png",
-            "timestamp": "2025/01/30"
-					},
-					  {
-            "name": "YouTube",
-            "icon": "https://hellstorevip.netlify.app/img/you.png",
-            "timestamp": "2025/01/30"
-					},
-					  {
-            "name": "Code By sms",
-            "icon": "https://hellstorevip.netlify.app/img/cod.png",
-            "timestamp": "2025/01/30"
-					},
-					 {
-            "name": "Djay Pro",
-            "icon": "https://hellstorevip.netlify.app/img/djay.png",
-            "timestamp": "2025/01/30"
-					},
-		  {
-            "name": "InfoCar",
-            "icon": "https://hellstorevip.netlify.app/img/info.png",
-            "timestamp": "2025/01/30"
-					},
-		  {
-            "name": "PPSSPP",
-            "icon": "https://hellstorevip.netlify.app/img/ppsspp.png",
-            "timestamp": "2025/01/30"
-					},
-					  {
-            "name": "VideoFx Live",
-            "icon": "https://hellstorevip.netlify.app/img/videofx.png",
-            "timestamp": "2025/01/30"
-					},
-					  {
-            "name": "X",
-            "icon": "https://hellstorevip.netlify.app/img/x.png",
-            "timestamp": "2025/01/30"
-					},
-					 {
-            "name": "Royal Match",
-            "icon": "https://hellstorevip.netlify.app/img/royal.png",
-            "timestamp": "2025/01/30"
-					},
-		  {
-            "name": "PicsArt",
-            "icon": "https://hellstorevip.netlify.app/img/pics.png",
-            "timestamp": "2025/01/30"
-					},
-		  {
-            "name": "Pixelance",
-            "icon": "https://hellstorevip.netlify.app/img/pixe.png",
-            "timestamp": "2025/01/30"
+            "name": "Hungry Shark",
+            "icon": "https://hellstorevip.netlify.app/img/hung.png",
+            "timestamp": "2025/01/31"
 					}
+	
 				
     ]
 }
