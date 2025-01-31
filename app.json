@@ -194,6 +194,55 @@
     "link": "itms-services://?action=download-manifest&url=https://hellstorevip.netlify.app/plist/hill.plist",
     "downloads":2 ,
     "views": 0
+  },
+{
+    "name": "8 Ball Poll",
+    "icon": "https://hellstorevip.netlify.app/img/8.png",
+    "link": "itms-services://?action=download-manifest&url=https://hellstorevip.netlify.app/plist/8.plist",
+    "downloads":2 ,
+    "views": 0
+  },
+	  {
+    "name": "Pal",
+    "icon": "https://hellstorevip.netlify.app/img/pal.png",
+    "link": "itms-services://?action=download-manifest&url=https://hellstorevip.netlify.app/plist/pal.plist",
+    "downloads":2 ,
+    "views": 0
+  },
+{
+    "name": "Minutes",
+    "icon": "https://hellstorevip.netlify.app/img/minu.png",
+    "link": "itms-services://?action=download-manifest&url=https://hellstorevip.netlify.app/plist/minu.plist",
+    "downloads":2 ,
+    "views": 0
+  },
+	  {
+    "name": "Paper War",
+    "icon": "https://hellstorevip.netlify.app/img/paper.png",
+    "link": "itms-services://?action=download-manifest&url=https://hellstorevip.netlify.app/plist/paper.plist",
+    "downloads":2 ,
+    "views": 0
+  },
+{
+    "name": "TV Remote",
+    "icon": "https://hellstorevip.netlify.app/img/tv.png",
+    "link": "itms-services://?action=download-manifest&url=https://hellstorevip.netlify.app/plist/tv.plist",
+    "downloads":2 ,
+    "views": 0
+  },
+	  {
+    "name": "Zank Remote",
+    "icon": "https://hellstorevip.netlify.app/img/zank.png",
+    "link": "itms-services://?action=download-manifest&url=https://hellstorevip.netlify.app/plist/zank.plist",
+    "downloads":2 ,
+    "views": 0
+  },
+{
+    "name": "Coconote",
+    "icon": "https://hellstorevip.netlify.app/img/coco.png",
+    "link": "itms-services://?action=download-manifest&url=https://hellstorevip.netlify.app/plist/coco.plist",
+    "downloads":2 ,
+    "views": 0
   }
 	
 ]
