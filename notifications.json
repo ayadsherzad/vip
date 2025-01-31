@@ -80,6 +80,16 @@
 "name": "Minutes",
     "icon": "https://hellstorevip.netlify.app/img/minu.png",
             "timestamp": "2025/01/31"
+	},
+		                        {
+         "name": "iPGMail",
+            "icon": "https://hellstorevip.netlify.app/img/ipg.png",
+            "timestamp": "2025/01/31"
+					},
+	  	                        {
+"name": "VideoEraser",
+    "icon": "https://hellstorevip.netlify.app/img/videoer.png",
+            "timestamp": "2025/01/31"
 	}
 
 					
