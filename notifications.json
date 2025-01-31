@@ -30,7 +30,24 @@
             "name": "Hungry Shark",
             "icon": "https://hellstorevip.netlify.app/img/hung.png",
             "timestamp": "2025/01/31"
-					}
+					},
+		  {
+            "name": "Last War",
+            "icon": "https://hellstorevip.netlify.app/img/last.png",
+            "timestamp": "2025/01/31"
+					},
+		                        {
+            "name": "Text Capture",
+            "icon": "https://hellstorevip.netlify.app/img/text.png",
+            "timestamp": "2025/01/31"
+					},
+	  	                        {
+    "name": "Hill Climb 2",
+    "icon": "https://hellstorevip.netlify.app/img/hill.png",
+            "timestamp": "2025/01/31"
+	}
+
+					
 	
 				
     ]
