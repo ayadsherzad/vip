@@ -26,7 +26,7 @@
     "name": "Spotify",
     "icon": "https://hellstorevip.netlify.app/img/spotify.png"
 },
-				  {
+{
             "name": "YouTube",
             "icon": "https://hellstorevip.netlify.app/img/you.png"
 					},
@@ -62,11 +62,11 @@
             "name": "PicsArt",
             "icon": "https://hellstorevip.netlify.app/img/pics.png"
 					},
-		  {
+		                        {
             "name": "Pixelance",
             "icon": "https://hellstorevip.netlify.app/img/pixe.png"
 					},
-	  	  {
+	  	                        {
             "name": "zooba",
             "icon": "https://hellstorevip.netlify.app/img/zooba.png",
  
@@ -86,12 +86,12 @@
             "icon": "https://hellstorevip.netlify.app/img/flight.png",
         
 					},
-		  {
+		                        {
             "name": "طقس العرب",
             "icon": "https://hellstorevip.netlify.app/img/sqs.png",
          
 					},
-		  {
+		                         {
             "name": "Hungry Shark",
             "icon": "https://hellstorevip.netlify.app/img/hung.png",
      
