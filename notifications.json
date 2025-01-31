@@ -45,6 +45,41 @@
     "name": "Hill Climb 2",
     "icon": "https://hellstorevip.netlify.app/img/hill.png",
             "timestamp": "2025/01/31"
+	},
+					  {
+             "name": "8 Ball Poll",
+    "icon": "https://hellstorevip.netlify.app/img/8.png",
+            "timestamp": "2025/01/31"
+					},
+					 {
+            "name": "Pal",
+    "icon": "https://hellstorevip.netlify.app/img/pal.png",
+            "timestamp": "2025/01/31"
+					},
+		  {
+            "name": "TV Remote",
+    "icon": "https://hellstorevip.netlify.app/img/tv.png",
+            "timestamp": "2025/01/31"
+					},
+		  {
+"name": "Zank Remote",
+    "icon": "https://hellstorevip.netlify.app/img/zank.png",
+            "timestamp": "2025/01/31"
+					},
+		  {
+        "name": "Coconote",
+            "icon": "https://hellstorevip.netlify.app/img/coco.png",
+            "timestamp": "2025/01/31"
+					},
+		                        {
+         "name": "Paper War",
+            "icon": "https://hellstorevip.netlify.app/img/paper.png",
+            "timestamp": "2025/01/31"
+					},
+	  	                        {
+"name": "Minutes",
+    "icon": "https://hellstorevip.netlify.app/img/minu.png",
+            "timestamp": "2025/01/31"
 	}
 
 					
