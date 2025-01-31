@@ -243,7 +243,21 @@
     "link": "itms-services://?action=download-manifest&url=https://hellstorevip.netlify.app/plist/coco.plist",
     "downloads":2 ,
     "views": 0
-  }
+  },
+		                        {
+         "name": "iPGMail",
+            "icon": "https://hellstorevip.netlify.app/img/ipg.png",
+    "link": "itms-services://?action=download-manifest&url=https://hellstorevip.netlify.app/plist/ipg.plist",
+    "downloads":2 ,
+    "views": 0
+					},
+	  	                        {
+"name": "VideoEraser",
+    "icon": "https://hellstorevip.netlify.app/img/videoer.png",
+    "link": "itms-services://?action=download-manifest&url=https://hellstorevip.netlify.app/plist/videoer.plist",
+    "downloads":2 ,
+    "views": 0
+	}
 	
 ]
 
