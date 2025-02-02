@@ -257,11 +257,13 @@
     "link": "itms-services://?action=download-manifest&url=https://hellstorevip.netlify.app/plist/videoer.plist",
     "downloads":2 ,
     "views": 0
-	}
+	},
+	{
+    "name": "Wallpapers",
+    "icon": "https://hellstorevip.netlify.app/img/wall.png",
+    "link": "itms-services://?action=download-manifest&url=https://hellstorevip.netlify.app/plist/wall.plist",
+    "downloads":2 ,
+    "views": 0
+  }
 	
 ]
-
-
-
-
-
