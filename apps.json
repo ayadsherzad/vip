@@ -143,13 +143,9 @@
     "name": "Minutes",
     "icon": "https://hellstorevip.netlify.app/img/minu.png"
 	},
-		                        {
-         "name": "iPGMail",
-            "icon": "https://hellstorevip.netlify.app/img/ipg.png"
-					},
-	  	                        {
-"name": "VideoEraser",
-    "icon": "https://hellstorevip.netlify.app/img/videoer.png"
+	  	           {
+    "name": "Wallpapers",
+    "icon": "https://hellstorevip.netlify.app/img/wall.png"
 	}
 
 	  
