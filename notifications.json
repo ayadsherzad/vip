@@ -1,95 +1,11 @@
 {
     "app_icons": [
    
-					  {
-            "name": "zooba",
-            "icon": "https://hellstorevip.netlify.app/img/zooba.png",
-            "timestamp": "2025/01/31"
-					},
-					  {
-            "name": "Bloons card storm",
-            "icon": "https://hellstorevip.netlify.app/img/bloons.png",
-            "timestamp": "2025/01/31"
-					},
-					  {
-            "name": "Clash of Clans",
-            "icon": "https://hellstorevip.netlify.app/img/clash.png",
-            "timestamp": "2025/01/31"
-					},
-					 {
-            "name": "Flight Tracker",
-            "icon": "https://hellstorevip.netlify.app/img/flight.png",
-            "timestamp": "2025/01/31"
-					},
-		  {
-            "name": "طقس العرب",
-            "icon": "https://hellstorevip.netlify.app/img/sqs.png",
-            "timestamp": "2025/01/31"
-					},
-		  {
-            "name": "Hungry Shark",
-            "icon": "https://hellstorevip.netlify.app/img/hung.png",
-            "timestamp": "2025/01/31"
-					},
-		  {
-            "name": "Last War",
-            "icon": "https://hellstorevip.netlify.app/img/last.png",
-            "timestamp": "2025/01/31"
-					},
-		                        {
-            "name": "Text Capture",
-            "icon": "https://hellstorevip.netlify.app/img/text.png",
-            "timestamp": "2025/01/31"
-					},
-	  	                        {
-    "name": "Hill Climb 2",
-    "icon": "https://hellstorevip.netlify.app/img/hill.png",
-            "timestamp": "2025/01/31"
-	},
-					  {
-             "name": "8 Ball Poll",
-    "icon": "https://hellstorevip.netlify.app/img/8.png",
-            "timestamp": "2025/01/31"
-					},
-					 {
-            "name": "Pal",
-    "icon": "https://hellstorevip.netlify.app/img/pal.png",
-            "timestamp": "2025/01/31"
-					},
-		  {
-            "name": "TV Remote",
-    "icon": "https://hellstorevip.netlify.app/img/tv.png",
-            "timestamp": "2025/01/31"
-					},
-		  {
-"name": "Zank Remote",
-    "icon": "https://hellstorevip.netlify.app/img/zank.png",
-            "timestamp": "2025/01/31"
-					},
-		  {
-        "name": "Coconote",
-            "icon": "https://hellstorevip.netlify.app/img/coco.png",
-            "timestamp": "2025/01/31"
-					},
-		                        {
-         "name": "Paper War",
-            "icon": "https://hellstorevip.netlify.app/img/paper.png",
-            "timestamp": "2025/01/31"
-					},
-	  	                        {
-"name": "Minutes",
-    "icon": "https://hellstorevip.netlify.app/img/minu.png",
-            "timestamp": "2025/01/31"
-	},
-		                        {
-         "name": "iPGMail",
-            "icon": "https://hellstorevip.netlify.app/img/ipg.png",
-            "timestamp": "2025/01/31"
-					},
-	  	                        {
-"name": "VideoEraser",
-    "icon": "https://hellstorevip.netlify.app/img/videoer.png",
-            "timestamp": "2025/01/31"
+			
+	  	           {
+    "name": "Wallpapers",
+    "icon": "https://hellstorevip.netlify.app/img/wall.png",
+		"timestamp": "2025/02/2"
 	}
 
 					
