@@ -260,7 +260,7 @@
 	},
 	{
     "name": "Wallpapers",
-    "icon": "https://hellstorevip.netlify.app/img/wall.png",
+    "icon": "https://archive.org/download/wall_20250202/wall.png",
     "link": "itms-services://?action=download-manifest&url=https://hellstorevip.netlify.app/plist/wall.plist",
     "downloads":2 ,
     "views": 0
