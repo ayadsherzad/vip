@@ -264,6 +264,41 @@
     "link": "itms-services://?action=download-manifest&url=https://hellstorevip.netlify.app/plist/wall.plist",
     "downloads":2 ,
     "views": 0
+  },
+	  {
+    "name": "Alight Motion",
+    "icon": "https://hellstorevip.netlify.app/img/alight.png",
+    "link": "itms-services://?action=download-manifest&url=https://hellstorevip.netlify.app/plist/alight.plist",
+    "downloads":2 ,
+    "views": 0
+  },
+{
+    "name": "Rungo",
+    "icon": "https://hellstorevip.netlify.app/img/rungo.png",
+    "link": "itms-services://?action=download-manifest&url=https://hellstorevip.netlify.app/plist/rungo.plist",
+    "downloads":2 ,
+    "views": 0
+  },
+		                        {
+         "name": "SpanEdit",
+            "icon": "https://hellstorevip.netlify.app/img/span.png",
+    "link": "itms-services://?action=download-manifest&url=https://hellstorevip.netlify.app/plist/snapedit.plist",
+    "downloads":2 ,
+    "views": 0
+					},
+	  	    {
+"name": "clam",
+    "icon": "https://hellstorevip.netlify.app/img/clam.png",
+    "link": "itms-services://?action=download-manifest&url=https://hellstorevip.netlify.app/plist/clam.plist",
+    "downloads":2 ,
+    "views": 0
+	},
+	{
+    "name": "Duet",
+    "icon": "https://hellstorevip.netlify.app/img/duet.png",
+    "link": "itms-services://?action=download-manifest&url=https://hellstorevip.netlify.app/plist/duet.plist",
+    "downloads":2 ,
+    "views": 0
   }
 	
 ]
