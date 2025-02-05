@@ -142,7 +142,8 @@
 	  	                        {
     "name": "Minutes",
     "icon": "https://hellstorevip.netlify.app/img/minu.png"
-	},{
+	},
+	{
             "name": "iPGMail",
             "icon": "https://hellstorevip.netlify.app/img/ipg.png"
 					},
@@ -152,15 +153,29 @@
 	},
 	  	           {
     "name": "Wallpapers",
-    "icon": "https://archive.org/download/wall_20250202/wall.png"
+    "icon": "https://hellstorevip.netlify.app/img/wall.png"
+	},
+		  	           {
+    "name": "RunGo",
+    "icon": "https://hellstorevip.netlify.app/img/rungo.png"
+	},
+		  	           {
+    "name": "Duet",
+    "icon": "https://hellstorevip.netlify.app/img/duet.png"
+	},
+		  	           {
+    "name": "Clam",
+    "icon": "https://hellstorevip.netlify.app/img/clam.png"
+	},
+		  	           {
+    "name": "SpanEdit",
+    "icon": "https://hellstorevip.netlify.app/img/snapedit.png"
+	},
+		  	           {
+    "name": "Alight Motion",
+    "icon": "https://hellstorevip.netlify.app/img/alight.png"
 	}
 
 	  
     ]
 }
-
-
-
-
-  
-  
