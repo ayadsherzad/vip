@@ -1,6 +1,9 @@
 {
   "apps": [
-
+{
+    "name": "helltools",
+    "icon": "https://hell-tools.netlify.app/img/icon.png"
+},
 {
     "name": "video star",
     "icon": "https://hellstorevip.netlify.app/img/video.png"
