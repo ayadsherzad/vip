@@ -1,33 +1,7 @@
 {
     "app_icons": [
    
-			
-	  	           {
-    "name": "RunGo",
-    "icon": "https://hellstorevip.netlify.app/img/rungo.png",
-		"timestamp": "2025/02/5"
-	},
-		  	           {
-    "name": "Duet",
-    "icon": "https://hellstorevip.netlify.app/img/duet.png",
-		"timestamp": "2025/02/5"
-	},
-		  	           {
-    "name": "Clam",
-    "icon": "https://hellstorevip.netlify.app/img/clam.png",
-		"timestamp": "2025/02/5"
-	},
-		  	           {
-    "name": "SpanEdit",
-    "icon": "https://hellstorevip.netlify.app/img/snapedit.png",
-		"timestamp": "2025/02/5"
-	},
-		  	           {
-    "name": "Alight Motion",
-    "icon": "https://hellstorevip.netlify.app/img/alight.png",
-		"timestamp": "2025/02/5"
-	}
- 
+	
 					
 	
 				
