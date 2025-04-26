@@ -5,6 +5,6 @@
     "size": "6.4 MB",
     "icon": "https://hell-store.netlify.app/img/esign.png",
     "time": "1 Second ago",
-    "download": "https://example.com/whatsapp-ipad.ipa"
+    "download": "itms-services://?action=download-manifest&url=https://hell-store.netlify.app/plist/esign.plist"
   }
 ]
