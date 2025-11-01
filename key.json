@@ -1,14 +1,8 @@
-[
-  {
-    "key": "HL-STORE.7EZUBTFGDEMMGS9M3X",
-    "expiresAt": 1765122829927
-  },
-
-  {
-    "key": "HellStoreVip.OCHZ74MRBAUVE3QIVAWVE1TRYIBY",
-    "expiresAt": 1770922228176
-  }
-
-
-	
-]
+{
+  "keys": [
+{
+  "key": "HELLEYE.S7C2NSBXZMFLOKFI",
+  "expires": "2026-01-30T09:11:54.245Z"
+}
+  ]
+}
